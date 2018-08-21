@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
@@ -18,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
  private MyAlerDialog objMyAlert;
  private Question objQuestion;
  private MyAlerDialog objMyAlertDialog;
+  RadioButton rdb1,rdb2,rdb3,rdb4;
     Button answer;
     int intTime = 1,userChoose,userScore;
     int userChooseArray[],trueAnswer[];

@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">My MVC</string>
+    <string name="a1">What is this?</string>
+    <string name="b1">Pig</string>
+    <string name="b2">Monkey</string>
+    <string name="b3">Bird</string>
+    <string name="b4">Dog</string>
+    <string name="b5">Geraffe</string>
+    <string name="b6">Lion</string>
+    <string name="b7">Frog</string>
+    <string name="b8">Goat</string>
+    <string name="b9">Bee</string>
+    <string name="b10">Bear</string>
+    <string name="a2">Answer</string>
+    <string name="score">Score</string>
+    <string name="play">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="ys1">YOUR SCORE</string>
 </resources>
